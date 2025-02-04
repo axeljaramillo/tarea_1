@@ -1,3 +1,3 @@
 # Equipo 
-Axel Cabrera Jaramillo
-Jose davila
+- Axel Cabrera Jaramillo
+- Jose davila
